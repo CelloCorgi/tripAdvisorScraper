@@ -5,54 +5,54 @@ Jolly Pumpkin in Ann Arbor
 Sava's
 Zingerman's Roadhouse
 Gandy Dancer
-Tomukun
 Metzgers German Restaurant
 Frita Batidos
+Tomukun
 Grizzly Peak Brewing Company
-Cafe Zola
 The Chop House
+Cafe Zola
 Gratzi
 Jerusalem Garden
 Aventura Ann Arbor
 The Lunch Room
 Isalita
-Real Seafood Co.
 Vinology
+Real Seafood Co.
 Mediterrano
-Cardamom
 Afternoon Delight
+Cardamom
 West End Grill
 NeoPapalis
 Palm Palace Restaurant
-Logan
 Knight's Steak House
+Logan
+The Black Pearl Seafood and Martini Bar
 Seva Restaurant
 HopCat
-Pizza House
 Paesano's
-The Black Pearl Seafood and Martini Bar
-The Quarter Bistro
-Casey's Tavern
 Bigalora Wood Fired Cucina
+The Quarter Bistro
+Arbor Brewing Company
+Pizza House
 Red Hawk Bar & Grill
 Carlyle Grill
-The Earle Restaurant
 Blue Tractor
-Arbor Brewing Company
+Casey's Tavern
 Knights Restaurant
+The Earle Restaurant
 Angelo's Restaurant
+Weber's Restaurant
 Melange
 Slurping Turtle
-Weber's Restaurant
 Carson's American Bistro
+Wolverine State Brewing Co.
 Taste Kitchen
 Zamaan Cafe
 Cottage Inn Pizza
 Palio
 Grange Kitchen and Bar
-Wolverine State Brewing Co.
-Bill's Beer Garden
 Elevation Burger Ann Arbor - Washtenaw
+Bill's Beer Garden
 Eve Restaurant
 Bd's Mongolian Grill
 Mezzevino
@@ -61,71 +61,73 @@ Ruth's Chris Steak House
 Banditos
 Songbird Cafe
 Shalimar Restaurant
-Conor O'Neill's Traditional
 The Ravens Club
-Seoul Garden
-Nick's Original House of Pancakes
 Northside Grill
-Ashley's Ann Arbor
-Amadeus Cafe & Restaurant
-Back2Roots Bistro
+Conor O'Neill's Traditional
 Krazy Jim's Blimpy Burger
-Ayse's Turkish Cafe
-Hut-K Chaats
-Chela's Restaurant and Taqueria
+Seoul Garden
+Ashley's Ann Arbor
+Back2Roots Bistro
 Classic Cup Cafe
-Fleetwood Diner
+Amadeus Cafe & Restaurant
+Chela's Restaurant and Taqueria
+Ayse's Turkish Cafe
+Nick's Original House of Pancakes
+Hut-K Chaats
 Prickly Pear Southwest Cafe
+Fleetwood Diner
+Holiday's Restaurant
 Plum Market
 Red Robin Gourmet Burgers
-Holiday's Restaurant
 Big Boy
 Juicy Kitchen
 Exotic Cuisine & Bakeries
-California Pizza Kitchen
 The Beer Grotto
 Yotsuba Japanese Restaurant
 TMAZ Taqueria
 Bell's Diner
+Mark's Mid-Town Coney Island
 Texas Roadhouse
+California Pizza Kitchen
 V Kitchen
-The Pretzel Bell
 suvai palace
 Pilar's Tamales
-Mark's Mid-Town Coney Island
-Los Amigos Restaurant & Cantina
+The Pretzel Bell
 Ichiban Japanese Steakhouse & Sushi Bar
 Red Lobster
 Monahan's Seafood Market
 Blue Nile of Ann Arbor
-Cafe Felix
+Godaiko Japanese Restaurant
 Aut Bar
+Los Amigos Restaurant & Cantina
+Cafe Felix
 Bewon
 El Harissa Market Cafe
-Godaiko Japanese Restaurant
 Broken Egg
-Earthen Jar
-Whole Foods Market
+Tios Mexican Cafe
 Bagger Dave's
 Madras Masala
 Don Juan Mexican Bar & Grill
-Bruegger's
-Potbelly Sandwich Works
-Tios Mexican Cafe
 Sweetwater Cafe's
 Spencer
 SIAM Square
-Zola Bistro
+TK Wu
 Applebee's
 Mezes Greek Grill
-Bravo Cucina Italiana
+Whole Foods Market
+Anthony's Gourmet Pizza
+Earthen Jar
+Zola Bistro
 P.F. Chang's
 Dominick's
-Chili's Grill & Bar
-TK Wu
-Seoul Street
 Argiero's Italian Restaurant
+Chili's Grill & Bar
+Potbelly Sandwich Works
+Bravo Cucina Italiana
+Bruegger's
 Salads UP
+Ron's Roadside Barbeque
+Benny's Family Dining
 Evergreen Restaurant
 Sushi Town
 Graham's Restaurant
@@ -139,17 +141,13 @@ Kosmo
 Mark's Mid-Town Coney Island
 Gourmet Garden
 The Old Siam By Siam Kitchen
-Anthony's Gourmet Pizza
 Satchel's BBQ
 Jamaican Jerk Pit
 Noodles & Company
-Benny's Family Dining
-Ron's Roadside Barbeque
+Seoul Street
 White Castle
 Panera Bread
-Babo Market
 Totoro
-Bar Louie
 Foods Of India
 Ali-Baba
 Arirang Restaurant
@@ -163,7 +161,9 @@ Paradise
 Sadako
 Little Caesars
 Olga's Kitchen
+Bar Louie
 Espresso Royale
+Babo Market
 Cottage Inn Pizza
 Chia Shiang Restaurant
 Pizza Bob's
@@ -179,6 +179,8 @@ Ginger Deli
 Belly Deli
 Chipotle Mexican Grill
 Mark's Carts
+Roger Monks
+Marnee Thai - Ann Arbor
 Little Caeser's
 Tienda La Libertad
 Subway
@@ -199,6 +201,7 @@ Baxters Wine Shop Deli & Bkry
 Domino's Pizza
 State Street Deli
 Ahmo's Mediterranean Grill
+Kang's Korean Restaurant
 Big Boy
 Jefferson Market
 Haifa Falafel
@@ -216,15 +219,11 @@ Lab Cafe
 Frank's Restaurant
 aMa Bistro
 Denny's
-Roger Monks
-Marnee Thai - Ann Arbor
 Victors At The Campus Inn
 Panera Bread
 BurgerFi
-Taco King
 Applebee's
 No Thai!
-Kang's Korean Restaurant
 The Garden Grille & Bar
 Eastern Flame
 Vin Bar
@@ -236,6 +235,7 @@ Ann Arbor Papa John's
 Damas Restaurant
 Espresso Royale
 Arena
+Taco King
 Giardino's Pizza
 Pita King
 Backroom
@@ -250,31 +250,33 @@ Cottage Inn Pizza
 Katoi
 Bangkok Cuisine Express III
 Suvai
-Old Town
 PIZZA PINO EATERY
 South U Pizza
 Bob Evans
+DiBella's
 Wendy's
 Five Guys
 The Pita Pit
 Saigon Garden
 Panchero's Mexican Grill
 Noodles & Company
-The Big Salad
+Buffalo Wild Wings
 Achilles Restaurant
 Domino's Pizza
+Old Town
 UMI Sushi
 Cafe Ambrosia
 Alpha Koney Island
-DiBella's
 RIcewood
-Buffalo Wild Wings
 No Thai
 Ahmo's Gyro's & Deli
 Leo's Coney Island
+The Big Salad
 Five Guys
 Babs' Underground
+China Gate
 Potbelly Sandwich Works
+Score Keepers
 Big Ten Burrito
 Moe's Southwest Grill
 New York Pizza
@@ -282,23 +284,22 @@ Jimmy John's Gourmet Sandwiches
 Amer's
 Rod's Diner & Corporation
 Cottage Inn Pizza
-Izzy's Hoagie Shop
 Old German
-Taqueria La Fiesta
 Joe's Crab Shack
 Chipotle Mexican Grill
-China Gate
 McDonald's
 Ayaka
 Wendy's
-Score Keepers
 Mi Compadre
 Sabor Latino Restaurant Tqria
+Izzy's Hoagie Shop
 Seoul Korner Cafe
 Zoup! Fresh Soup Co
 Panera Bread
 Noodles & Company
 Chipotle Mexican Grill
+Taqueria La Fiesta
+MoonWinks Cafe
 DKY Sushi
 Chan's Garden
 Teriyaki Time
@@ -317,7 +318,6 @@ Beanster's Cafe
 Copernicus European DLCTSN
 Panda House
 Oasis Deli
-Alley Bar
 Outback Steakhouse
 Saica Restaurant
 Kai Garden
@@ -325,10 +325,10 @@ Potbelly Sandwich Works
 Taco Bell
 Marco's Pizza
 Tasty Green Cafe
-MoonWinks Cafe
 Piada Italian Street Food
 Fraser's Pub
 Mash
+Alley Bar
 China King
 Qdoba Mexican Grill
 A Hello Faz Pizza
@@ -344,17 +344,17 @@ No Thai
 Panda Korean & Chinese Food
 Sushi Tatsu
 Domino's Pizza
-Panda Express
 Subway
 Little Porkie's Pizza-N-More
 McDonald's
+Panda Express
 Great Harvest Bread
 Zingerman's Events on Fourth
 Bella Italia
 Jet's Pizza
 Great Plains Burger Company
-Panera Bread
 Happy Wok
+Panera Bread
 Cloverleaf Restaurant
 Elevation Burger Ann Arbor - Liberty
 Biwako Sushi
@@ -397,6 +397,7 @@ McDonald's
 Colonial Lanes
 Makkara
 Qdoba Mexican Grill
+The Back Alley Gourmet
 Cc
 Wasabi Sushi Plus
 Burger King
@@ -439,7 +440,6 @@ Mr Pita & The Coffee Beanery
 Diag Pizza and Subs
 Villa Pizza
 Empress Restaurant
-The Back Alley Gourmet
 MeiMei's
 Ann Arbor Tortilla
 Foods of India
