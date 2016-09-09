@@ -1,18 +1,3 @@
-http://www.tripadvisor.com/Restaurants-g29556-oa1-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa31-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa61-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa91-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa121-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa151-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa181-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa211-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa241-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa271-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa301-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa331-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa361-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa391-Ann_Arbor_Michigan.html
-http://www.tripadvisor.com/Restaurants-g29556-oa421-Ann_Arbor_Michigan.html
 Pacific Rim By Kana
 Mani Osteria
 Zingerman's Delicatessen
@@ -412,7 +397,6 @@ McDonald's
 Colonial Lanes
 Makkara
 Qdoba Mexican Grill
-The Back Alley Gourmet
 Cc
 Wasabi Sushi Plus
 Burger King
@@ -433,6 +417,7 @@ German Park
 Subway
 Katherine's Catering
 The Beet Box
+Wise Guys - Ann Arbor
 Garrett's After Dark
 Bert's Cafe
 Quiznos
